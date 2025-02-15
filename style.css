@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Header{
+    height: 80px;
+    background-color: coral;
+}
+.footer{
+    background-color: coral;
+    height: 100px;
+}
+.btn-submit{
+    border-radius: 15px;
+    width: 150px;
+    height: 35px;
+}
